@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head>
     <title>Ejemplo de HTML</title>
 </head>
@@ -13,4 +12,4 @@
     </ul>
     <p>Puedes agregar texto, imágenes y otros elementos aquí.</p>
 </body>
-</html>
+
